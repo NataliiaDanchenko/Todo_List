@@ -1,0 +1,20 @@
+.TodoSearch {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+}
+
+.input {
+  width: 500px;
+  background-color: white;
+  border-radius: 4px;
+  border: solid 1px gray;
+}
+
+.error {
+  padding: 10px 0 0 0;
+}

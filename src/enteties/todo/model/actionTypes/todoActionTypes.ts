@@ -1,0 +1,5 @@
+export enum TodoActionTypes {
+  SET_ERROR = 'TODO/SET_ERROR',
+  SET_IS_LOADING = 'TODO/SET_LOADING',
+  SET_TODOS = 'TODO/SET_TODOS'
+}

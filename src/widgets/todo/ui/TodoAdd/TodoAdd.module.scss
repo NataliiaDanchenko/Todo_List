@@ -1,0 +1,18 @@
+.TodoAdd {
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+}
+
+.input {
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.error {
+  padding: 10px 0 0 0;
+}
