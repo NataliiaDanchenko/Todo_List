@@ -1,6 +1,6 @@
 // react
 import { FC } from "react";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 // items
 import { headerNavigationItems } from "./headerNavigationItems";
 // styles

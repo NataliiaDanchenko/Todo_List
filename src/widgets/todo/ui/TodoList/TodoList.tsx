@@ -3,7 +3,7 @@ import { FC, useEffect } from 'react';
 // redux
 import { useSelector } from 'react-redux';
 import { useDispatch } from '@/shared/libs/hooks/useDispatch';
-import { getTodoError, getTodoIsLoading, getTodoState } from '@/enteties/todo/model/selectors/todoSelectors';
+import { getTodoState } from '@/enteties/todo/model/selectors/todoSelectors';
 // thunk
 import { getTodos } from '@/enteties/todo/model/thunks/todoThunks';
 // ui

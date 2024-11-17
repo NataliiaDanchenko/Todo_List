@@ -1,4 +1,4 @@
-import { TodoStateSchema } from "@/enteties/post/model/types/todoTypes";
+import { TodoStateSchema } from "@/enteties/todo/model/types/todoTypes";
 
 
 export interface StateSchema {
