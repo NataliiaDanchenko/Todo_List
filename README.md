@@ -1,6 +1,6 @@
 # Todo List App
 
-## This is a simple task management app using React, Redux and TypeScript.
+## This is a simple task management app using React, Redux and TypeScript
 
 ### 🛠️ Technologies
 
@@ -8,5 +8,5 @@
 
 ### 🚀 Project setup
 
-npm install
-npm run dev
+- npm install
+- npm run dev
